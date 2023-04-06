@@ -14,7 +14,7 @@ or pyproject.toml
 
 [tool.poetry.dependencies]
 ...
-fastapi-offline-swagger-ui = {git = "https://github.com/ahmetoner/fastapi-offline-swagger-ui"}
+fastapi-offline-swagger-ui = {git = "https://github.com/makinuk/py-swagger-ui"}
 
 ```
 
