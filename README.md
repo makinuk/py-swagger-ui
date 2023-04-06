@@ -5,7 +5,7 @@ By default FastAPI uses CDN for swagger ui assets (js and css files), with this 
 You can install this software via pip or poetry.
 
 ```sh
-pip3 install git+https://github.com/ahmetoner/fastapi-offline-swagger-ui
+pip3 install git+https://github.com/makinuk/py-swagger-ui
 ```
 
 or pyproject.toml
