@@ -46,6 +46,3 @@ if path.exists(assets_path + "/swagger-ui.css") and path.exists(assets_path + "/
     applications.get_swagger_ui_html = swagger_monkey_patch
 
 ```
-
-## Live Example
-Alternatively you can browse [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice/) repository to see how it is implemented.
